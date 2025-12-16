@@ -2,7 +2,7 @@
 
 # CoffeeNet Enterprise Network (CCNA+ Lab)
 
-This project is a CCNA+/early CCNP–level enterprise network lab built in **Cisco Packet Tracer**.
+This project is a simulation of a corporate network built in Cisco Packet Tracer.
 It demonstrates real-world campus + branch architecture with redundancy, routing, security, and centralized services.
 
 The goal of this lab is to showcase **practical networking skills**, not just theoretical configuration.
