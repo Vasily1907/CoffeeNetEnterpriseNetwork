@@ -1,0 +1,24 @@
+## Key Commands for Reviewers
+
+### Switching
+show vlan brief
+show interfaces trunk
+
+### HSRP
+show standby brief
+
+### Routing
+show ip route
+show ip ospf neighbor
+show ip route ospf
+
+### NAT
+show ip nat translations
+show ip nat statistics
+
+### DHCP
+ipconfig /all
+
+### Connectivity
+ping 10.0.50.10
+ping 198.51.100.10
